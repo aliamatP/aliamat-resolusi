@@ -1,4 +1,8 @@
 Laravel
 - bisa mengoperasikan dengan baik
 Go Lang
+- belajar crud go lang & function
 Flutter
+- belajar Flutter kembali agar lebih expert
+
+ads
