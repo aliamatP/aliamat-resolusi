@@ -1,6 +1,7 @@
 Laravel
-- bisa mengoperasikan dengan baik
+- crud
 Go Lang
 - belajar crud go lang & function
+- struct
 Flutter
 - belajar Flutter kembali agar lebih expert
